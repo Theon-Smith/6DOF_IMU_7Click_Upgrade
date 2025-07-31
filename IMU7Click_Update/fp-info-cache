@@ -1,4 +1,4 @@
-25612820923254671
+25619021267746062
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102640,6 +102640,34 @@ Varistor VF
 0
 2
 2
+mikroBUS
+MIKROBUS_HOST_CONN
+
+mikrobus
+0
+16
+16
+mikroBUS
+MIKROBUS_LOGO
+
+mikrobus
+0
+0
+0
+mikroBUS
+MIKROBUS_LOGO_TEXT
+
+
+0
+0
+0
+mikroBUS
+MIKROBUS_MODULE_CONN
+
+mikrobus
+0
+16
+16
 mikroBUS_Addon
 mikroBUS - Large
 
